@@ -65,7 +65,8 @@ p {/* selecciona el parrafo y lo pinta */
 
 img{/* selecciona las imagenes y las formatea */
 	border: 0px solid gray;
-	width: 100%;
+	width: 450px;
+	height: auto;
 	}
 
 
