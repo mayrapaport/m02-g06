@@ -67,6 +67,7 @@ img{/* selecciona las imagenes y las formatea */
 	border: 0px solid gray;
 	width: 450px;
 	height: auto;
+	float: right;
 	}
 
 
